@@ -133,3 +133,5 @@ Tailoring generative models to meet user needs and preferences will be vital in 
 Implementing text generation with generative models presents exciting opportunities and challenges. By understanding the underlying principles, preparing datasets effectively, selecting appropriate models, and evaluating their performance, practitioners can harness the power of AI to create innovative and relevant text. As the field continues to evolve, embracing these advancements will lead to new forms of creativity and communication.
 
 **Output of the Task_4**
+![Task_4 Output](https://github.com/user-attachments/assets/0233c0b0-32fb-41a0-a9dd-8386e52a79f8)
+
